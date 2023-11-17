@@ -1,0 +1,12 @@
+/* Define the background image */
+.background-image {
+  background-image: url('./assets//Banner.jpg');
+
+  background-size: cover;
+
+  background-position: center;
+
+  
+  background-size: cover;
+}
+
